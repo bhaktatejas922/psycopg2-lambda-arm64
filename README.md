@@ -1,0 +1,1 @@
+# psycopg2-lambda-arm64
