@@ -7,3 +7,6 @@ This is for python3.9 and works on AWS arm architecture
 
 Steps: 
 1) Copy the folder for python3.9 or python3.10 to your aws lambda function folder. rename it to psycopg2/ , and make sure its included when you zip your folder to AWS lambda
+
+
+# note this is pending aws upgrading lambda libgc version. once that happens these binaries will work
